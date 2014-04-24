@@ -12,5 +12,4 @@ public class test {
 	{
 		System.out.println("not bad git not bad at all");
 	}
-	
 }
